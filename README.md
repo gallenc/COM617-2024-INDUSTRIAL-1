@@ -5,10 +5,10 @@ To use:
 1) Ensure docker is running
 2) Clone the repo to the IDE of your choice
 3) Run the following commands in the terminal: <br />
-   kubectl apply -f postgres-configmap.yaml <br />
-   kubectl apply -f postgres-storage.yaml <br />
-   kubectl apply -f postgres-deployment.yaml <br />
-   kubectl apply -f postgres-service.yaml <br />
+   kubectl apply -f postgres-configmap.yaml; <br />
+   kubectl apply -f postgres-storage.yaml; <br />
+   kubectl apply -f postgres-deployment.yaml; <br />
+   kubectl apply -f postgres-service.yaml; <br />
 4) Display the pod information using: <br />
    kubectl get all <br />
 5) Note the pod name and the service/postgres port
