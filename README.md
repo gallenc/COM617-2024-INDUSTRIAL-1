@@ -1,8 +1,8 @@
-# COM617-2024-INDUSTRIAL-1
-industrial project
-This repo contains the yaml files required to deploy a postgres database fo use with an OpenNMS deployment.
+# COM617-2024-INDUSTRIAL-1 <br />
+industrial project <br />
+This repo contains the yaml files required to deploy a postgres database fo use with an OpenNMS deployment. <br />
 Requirements: <br />
-- Minikube and Kubectl configured for Docker Desktop
+- Minikube and Kubectl configured for Docker Desktop <br />
 To use:
 1) Clone the repo to the IDE of your choice
 2) Ensure docker is running: <br />
